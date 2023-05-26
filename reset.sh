@@ -1,0 +1,1 @@
+clear && pwd && git branch && git status
