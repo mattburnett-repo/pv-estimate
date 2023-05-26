@@ -45,5 +45,4 @@ To recreate the project you will need to:
 
 ## To Do
 
-- To Do items are listed in the repo's 'Issues' section.
-# pv-estimate
+- To Do items are listed in the repo's ['Issues'](https://github.com/mattburnett-repo/pv-estimate/issues) section.
