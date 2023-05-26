@@ -12,9 +12,7 @@ export const handler = async (event) => {
         .get(estimateURL, (res) => {
           if (res.statusCode !== 200) {
             reject(
-              new Error(
-                `Error accessing S3 file. Status code: ${res.statusCode}`
-              )
+              new Error(`Error accessing API. Status code: ${res.statusCode}`)
             )
           }
 
