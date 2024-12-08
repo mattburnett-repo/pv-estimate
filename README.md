@@ -8,7 +8,7 @@ The project is [hosted on AWS S3](http://pv-estimate.s3-website.eu-north-1.amazo
 
 This project implements an AWS-based version of an Express/Typescript/React stand-alone app located [here](https://github.com/mattburnett-repo/generic_code_challenge_02).
 
-The provided functionality is very minimal:
+The provided functionality is as follows:
 
 - The React app is stored as a static asset in AWS S3.
 - The React app sends a request to an AWS API Gateway endpoint.
